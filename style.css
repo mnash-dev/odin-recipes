@@ -1,0 +1,21 @@
+.home {
+    color:white;
+    background-color: red;
+    font-weight: 900;
+}
+
+h1 {
+    color:orange;
+    font-size:48px;
+}
+
+h5 {
+    color:#FFD580;
+}
+
+* {
+    color:beige;
+    background-color:black;
+    font-family:tahoma, sans-serif;
+    font-size: 16px;
+}
