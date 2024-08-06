@@ -1,21 +1,33 @@
-.home {
-    color:white;
-    background-color: red;
-    font-weight: 900;
+* {
+    color:beige;
+    background-color:black;
+    font-family:tahoma, sans-serif;
+    font-size: 16px;
 }
 
 h1 {
     color:orange;
     font-size:48px;
+    text-align:center;
+    margin: auto;
+    padding: 15px;
+    height: 20%;
+    width: 40%;
 }
 
 h5 {
     color:#FFD580;
 }
 
-* {
-    color:beige;
-    background-color:black;
-    font-family:tahoma, sans-serif;
-    font-size: 16px;
+.home {
+    color:white;
+    background-color: red;
+    font-weight: 900;
+}
+
+.list {
+    font-size:24px;
+    margin-left:23px;
+    padding: 5px;
+    display: inline-block;
 }
